@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-22T16:57:15 IST" name="SuitePolicy" finished-at="2023-02-22T16:57:51 IST" duration-ms="35393">
+    <groups>
+    </groups>
+    <test started-at="2023-02-22T16:57:15 IST" name="ChromeTest" finished-at="2023-02-22T16:57:32 IST" duration-ms="16596">
+      <class name="testNg.TestNgClass1">
+        <test-method is-config="true" signature="LauchBrowser(java.lang.String)[pri:0, instance:testNg.TestNgClass1@1ddf84b8]" started-at="2023-02-22T16:57:15 IST" name="LauchBrowser" finished-at="2023-02-22T16:57:17 IST" duration-ms="1983" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchBrowser -->
+        <test-method is-config="true" signature="ctreatePOMObjects()[pri:0, instance:testNg.TestNgClass1@1ddf84b8]" started-at="2023-02-22T16:57:18 IST" name="ctreatePOMObjects" finished-at="2023-02-22T16:57:18 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ctreatePOMObjects -->
+        <test-method is-config="true" signature="goToHomePage()[pri:0, instance:testNg.TestNgClass1@1ddf84b8]" started-at="2023-02-22T16:57:18 IST" name="goToHomePage" finished-at="2023-02-22T16:57:22 IST" duration-ms="3250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHomePage -->
+        <test-method signature="VerifyInvestmentPlanForm()[pri:1, instance:testNg.TestNgClass1@1ddf84b8]" started-at="2023-02-22T16:57:22 IST" name="VerifyInvestmentPlanForm" finished-at="2023-02-22T16:57:26 IST" duration-ms="4579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyInvestmentPlanForm -->
+        <test-method is-config="true" signature="LogoutPage()[pri:0, instance:testNg.TestNgClass1@1ddf84b8]" started-at="2023-02-22T16:57:26 IST" name="LogoutPage" finished-at="2023-02-22T16:57:26 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutPage -->
+        <test-method is-config="true" signature="goToHomePage()[pri:0, instance:testNg.TestNgClass1@1ddf84b8]" started-at="2023-02-22T16:57:26 IST" name="goToHomePage" finished-at="2023-02-22T16:57:28 IST" duration-ms="1974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHomePage -->
+        <test-method signature="VerifySaralJeevaninsuranceForm()[pri:2, instance:testNg.TestNgClass1@1ddf84b8]" started-at="2023-02-22T16:57:28 IST" name="VerifySaralJeevaninsuranceForm" finished-at="2023-02-22T16:57:31 IST" duration-ms="2868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySaralJeevaninsuranceForm -->
+        <test-method is-config="true" signature="LogoutPage()[pri:0, instance:testNg.TestNgClass1@1ddf84b8]" started-at="2023-02-22T16:57:31 IST" name="LogoutPage" finished-at="2023-02-22T16:57:31 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutPage -->
+        <test-method is-config="true" signature="clearPOMObjects()[pri:0, instance:testNg.TestNgClass1@1ddf84b8]" started-at="2023-02-22T16:57:31 IST" name="clearPOMObjects" finished-at="2023-02-22T16:57:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearPOMObjects -->
+        <test-method is-config="true" signature="closedbrowser()[pri:0, instance:testNg.TestNgClass1@1ddf84b8]" started-at="2023-02-22T16:57:31 IST" name="closedbrowser" finished-at="2023-02-22T16:57:32 IST" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedbrowser -->
+      </class> <!-- testNg.TestNgClass1 -->
+      <class name="testNg.TestNgClass2">
+        <test-method is-config="true" signature="LauchBrowser(java.lang.String)[pri:0, instance:testNg.TestNgClass2@50b472aa]" started-at="2023-02-22T16:57:17 IST" name="LauchBrowser" finished-at="2023-02-22T16:57:18 IST" duration-ms="1008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchBrowser -->
+        <test-method is-config="true" signature="ctreatePOMObjects()[pri:0, instance:testNg.TestNgClass2@50b472aa]" started-at="2023-02-22T16:57:18 IST" name="ctreatePOMObjects" finished-at="2023-02-22T16:57:18 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ctreatePOMObjects -->
+        <test-method is-config="true" signature="goToHomePage()[pri:0, instance:testNg.TestNgClass2@50b472aa]" started-at="2023-02-22T16:57:18 IST" name="goToHomePage" finished-at="2023-02-22T16:57:21 IST" duration-ms="2748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHomePage -->
+        <test-method signature="VerifyZeroCostInsuranceForm()[pri:3, instance:testNg.TestNgClass2@50b472aa]" started-at="2023-02-22T16:57:21 IST" name="VerifyZeroCostInsuranceForm" finished-at="2023-02-22T16:57:25 IST" duration-ms="3452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyZeroCostInsuranceForm -->
+        <test-method is-config="true" signature="LogoutPage()[pri:0, instance:testNg.TestNgClass2@50b472aa]" started-at="2023-02-22T16:57:25 IST" name="LogoutPage" finished-at="2023-02-22T16:57:25 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutPage -->
+        <test-method is-config="true" signature="goToHomePage()[pri:0, instance:testNg.TestNgClass2@50b472aa]" started-at="2023-02-22T16:57:25 IST" name="goToHomePage" finished-at="2023-02-22T16:57:25 IST" duration-ms="851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHomePage -->
+        <test-method signature="VerifyTermInsuranceForm()[pri:4, instance:testNg.TestNgClass2@50b472aa]" started-at="2023-02-22T16:57:25 IST" name="VerifyTermInsuranceForm" finished-at="2023-02-22T16:57:28 IST" duration-ms="2996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTermInsuranceForm -->
+        <test-method is-config="true" signature="LogoutPage()[pri:0, instance:testNg.TestNgClass2@50b472aa]" started-at="2023-02-22T16:57:28 IST" name="LogoutPage" finished-at="2023-02-22T16:57:28 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutPage -->
+        <test-method is-config="true" signature="clearPOMObjects()[pri:0, instance:testNg.TestNgClass2@50b472aa]" started-at="2023-02-22T16:57:28 IST" name="clearPOMObjects" finished-at="2023-02-22T16:57:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearPOMObjects -->
+        <test-method is-config="true" signature="closedbrowser()[pri:0, instance:testNg.TestNgClass2@50b472aa]" started-at="2023-02-22T16:57:32 IST" name="closedbrowser" finished-at="2023-02-22T16:57:32 IST" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedbrowser -->
+      </class> <!-- testNg.TestNgClass2 -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2023-02-22T16:57:32 IST" name="EdgeTest" finished-at="2023-02-22T16:57:51 IST" duration-ms="18739">
+      <class name="testNg.TestNgClass1">
+        <test-method is-config="true" signature="LauchBrowser(java.lang.String)[pri:0, instance:testNg.TestNgClass1@4d9e68d0]" started-at="2023-02-22T16:57:32 IST" name="LauchBrowser" finished-at="2023-02-22T16:57:34 IST" duration-ms="1556" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchBrowser -->
+        <test-method is-config="true" signature="goToHomePage()[pri:0, instance:testNg.TestNgClass1@4d9e68d0]" started-at="2023-02-22T16:57:36 IST" name="goToHomePage" finished-at="2023-02-22T16:57:39 IST" duration-ms="3176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHomePage -->
+        <test-method is-config="true" signature="ctreatePOMObjects()[pri:0, instance:testNg.TestNgClass1@4d9e68d0]" started-at="2023-02-22T16:57:36 IST" name="ctreatePOMObjects" finished-at="2023-02-22T16:57:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ctreatePOMObjects -->
+        <test-method signature="VerifyInvestmentPlanForm()[pri:1, instance:testNg.TestNgClass1@4d9e68d0]" started-at="2023-02-22T16:57:39 IST" name="VerifyInvestmentPlanForm" finished-at="2023-02-22T16:57:44 IST" duration-ms="5155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyInvestmentPlanForm -->
+        <test-method is-config="true" signature="LogoutPage()[pri:0, instance:testNg.TestNgClass1@4d9e68d0]" started-at="2023-02-22T16:57:44 IST" name="LogoutPage" finished-at="2023-02-22T16:57:44 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutPage -->
+        <test-method is-config="true" signature="goToHomePage()[pri:0, instance:testNg.TestNgClass1@4d9e68d0]" started-at="2023-02-22T16:57:44 IST" name="goToHomePage" finished-at="2023-02-22T16:57:47 IST" duration-ms="2391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHomePage -->
+        <test-method signature="VerifySaralJeevaninsuranceForm()[pri:2, instance:testNg.TestNgClass1@4d9e68d0]" started-at="2023-02-22T16:57:47 IST" name="VerifySaralJeevaninsuranceForm" finished-at="2023-02-22T16:57:50 IST" duration-ms="3025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySaralJeevaninsuranceForm -->
+        <test-method is-config="true" signature="LogoutPage()[pri:0, instance:testNg.TestNgClass1@4d9e68d0]" started-at="2023-02-22T16:57:50 IST" name="LogoutPage" finished-at="2023-02-22T16:57:50 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutPage -->
+        <test-method is-config="true" signature="clearPOMObjects()[pri:0, instance:testNg.TestNgClass1@4d9e68d0]" started-at="2023-02-22T16:57:50 IST" name="clearPOMObjects" finished-at="2023-02-22T16:57:50 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearPOMObjects -->
+        <test-method is-config="true" signature="closedbrowser()[pri:0, instance:testNg.TestNgClass1@4d9e68d0]" started-at="2023-02-22T16:57:50 IST" name="closedbrowser" finished-at="2023-02-22T16:57:50 IST" duration-ms="430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedbrowser -->
+      </class> <!-- testNg.TestNgClass1 -->
+      <class name="testNg.TestNgClass2">
+        <test-method is-config="true" signature="LauchBrowser(java.lang.String)[pri:0, instance:testNg.TestNgClass2@42e99e4a]" started-at="2023-02-22T16:57:34 IST" name="LauchBrowser" finished-at="2023-02-22T16:57:36 IST" duration-ms="2616" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchBrowser -->
+        <test-method is-config="true" signature="goToHomePage()[pri:0, instance:testNg.TestNgClass2@42e99e4a]" started-at="2023-02-22T16:57:36 IST" name="goToHomePage" finished-at="2023-02-22T16:57:39 IST" duration-ms="3320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHomePage -->
+        <test-method is-config="true" signature="ctreatePOMObjects()[pri:0, instance:testNg.TestNgClass2@42e99e4a]" started-at="2023-02-22T16:57:36 IST" name="ctreatePOMObjects" finished-at="2023-02-22T16:57:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ctreatePOMObjects -->
+        <test-method signature="VerifyZeroCostInsuranceForm()[pri:3, instance:testNg.TestNgClass2@42e99e4a]" started-at="2023-02-22T16:57:39 IST" name="VerifyZeroCostInsuranceForm" finished-at="2023-02-22T16:57:43 IST" duration-ms="3113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyZeroCostInsuranceForm -->
+        <test-method is-config="true" signature="LogoutPage()[pri:0, instance:testNg.TestNgClass2@42e99e4a]" started-at="2023-02-22T16:57:43 IST" name="LogoutPage" finished-at="2023-02-22T16:57:43 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutPage -->
+        <test-method is-config="true" signature="goToHomePage()[pri:0, instance:testNg.TestNgClass2@42e99e4a]" started-at="2023-02-22T16:57:43 IST" name="goToHomePage" finished-at="2023-02-22T16:57:44 IST" duration-ms="1063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHomePage -->
+        <test-method signature="VerifyTermInsuranceForm()[pri:4, instance:testNg.TestNgClass2@42e99e4a]" started-at="2023-02-22T16:57:44 IST" name="VerifyTermInsuranceForm" finished-at="2023-02-22T16:57:47 IST" duration-ms="2957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTermInsuranceForm -->
+        <test-method is-config="true" signature="LogoutPage()[pri:0, instance:testNg.TestNgClass2@42e99e4a]" started-at="2023-02-22T16:57:47 IST" name="LogoutPage" finished-at="2023-02-22T16:57:47 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutPage -->
+        <test-method is-config="true" signature="clearPOMObjects()[pri:0, instance:testNg.TestNgClass2@42e99e4a]" started-at="2023-02-22T16:57:47 IST" name="clearPOMObjects" finished-at="2023-02-22T16:57:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearPOMObjects -->
+        <test-method is-config="true" signature="closedbrowser()[pri:0, instance:testNg.TestNgClass2@42e99e4a]" started-at="2023-02-22T16:57:50 IST" name="closedbrowser" finished-at="2023-02-22T16:57:51 IST" duration-ms="339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedbrowser -->
+      </class> <!-- testNg.TestNgClass2 -->
+    </test> <!-- EdgeTest -->
+  </suite> <!-- SuitePolicy -->
+</testng-results>
